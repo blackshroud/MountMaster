@@ -1,20 +1,17 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: blackshroud-mountmaster
+name: MountMaster
+tagline: Mounts your data, and shares with your apps too...
 icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
+category: Media
+version: "0.0.1"
 port: 4000
 description: >-
-  Add your app's description here.
+  An app to assist in persistently mount a USB volume, and add to your selected app as a volume to be used for storage.
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
+developer: blackshroud
+website: https://na.com
+submitter: blackshroud
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
@@ -23,7 +20,7 @@ gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Let's see if this thing can even do stuff...
 dependencies: []
 path: ""
 defaultUsername: ""
